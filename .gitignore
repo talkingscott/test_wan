@@ -1,3 +1,7 @@
+parse_test_wan_1.txt
+test_wan.txt
+test_wan_1.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
